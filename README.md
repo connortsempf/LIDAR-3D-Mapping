@@ -39,7 +39,8 @@ This project combines a bluetooth breakout board and two-servo, two-axis control
 <img src="Demo-Resources/Images/HardwareWiringDiagram.png" alt="Hardware Wiring Diagram" style="height: 500px;"><br><br>
 
 **3D Printed Part Models:**<br><br>
-<img src="3D-Models/Images/DeviceAssembly.png" alt="Device Assembly" style="height: 300px;"><br>
+<img src="3D-Models/Images/DeviceAssembly_Front.png" alt="Device Assembly Front" style="height: 300px;"><br>
+<img src="3D-Models/Images/DeviceAssembly_Rear.png" alt="Device Assembly Rear" style="height: 300px;"><br>
 <img src="3D-Models/Images/BreadboardHolder3DModelImage.png" alt="Breadboard Holder 3D Model Image" style="height: 300px;">
 <img src="3D-Models/Images/BreadboardHolder3DModelImage_Transparent.png" alt="Breadboard Holder 3D Model Image Transparent" style="height: 300px;"><br>
 <img src="3D-Models/Images/HorizontalServoHolder3DModelImage.png" alt="Horizontal Servo Holder 3D Model Image" style="height: 300px;">
