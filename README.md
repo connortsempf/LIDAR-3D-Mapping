@@ -16,7 +16,7 @@ Final Project - Georgia Tech - ECE 4180 - Spring 2024
 - mBed LPC1768 Microcontroller - [Reference Site](https://os.mbed.com/platforms/mbed-LPC1768/)
 - Adafruit Bluefruit LE Uart Bluetooth Board - [Reference Site](https://os.mbed.com/users/4180_1/notebook/adafruit-bluefruit-le-uart-friend---bluetooth-low-/)
 - Adafruit VL53L0X LIDAR ToF Distance Sensor Board - [Reference Site](https://os.mbed.com/users/4180_1/code/HelloWorld_VL53L0X_LPC1768/)
-- HiTEC HS-422 Deluxe Servo Motor (2) - [Reference Site](https://os.mbed.com/users/4180_1/notebook/an-introduction-to-servos/)<br>
+- HiTEC HS-422 Deluxe Servo Motor (2) - [Reference Site](https://os.mbed.com/users/4180_1/notebook/an-introduction-to-servos/)<br><br>
 
 **Miscellaneous Components:**
 - 3D Printed Parts
@@ -26,10 +26,10 @@ Final Project - Georgia Tech - ECE 4180 - Spring 2024
 - Smartphone with 'Bluefruit Connect' App
 - PC or Laptop
 - 5V Supply
-- Jumper Wires<br>
+- Jumper Wires<br><br>
 
 **Hardware Wiring Diagram:**<br><br>
-<img src="Demo-Resources/Images/HardwareWiringDiagram.png" alt="Hardware Wiring Diagram" style="height: 500px;">
+<img src="Demo-Resources/Images/HardwareWiringDiagram.png" alt="Hardware Wiring Diagram" style="height: 500px;"><br>
 
 **3D Printed Part Models:**<br><br>
 <img src="3D-Models/Images/DeviceAssembly.png" alt="Device Assembly" style="height: 300px;"><br>
@@ -38,7 +38,7 @@ Final Project - Georgia Tech - ECE 4180 - Spring 2024
 <img src="3D-Models/Images/HorizontalServoHolder3DModelImage.png" alt="Horizontal Servo Holder 3D Model Image" style="height: 300px;">
 <img src="3D-Models/Images/HorizontalServoHolder3DModelImage_Transparent.png" alt="Horizontal Servo Holder 3D Model Image Transparent" style="height: 300px;"><br>
 <img src="3D-Models/Images/VerticalServoHolder3DModelImage.png" alt="Vertical Servo Holder 3D Model Image" style="height: 300px;">
-<img src="3D-Models/Images/VerticalServoHolder3DModelImage_Transparent.png" alt="Vertical Servo Holder 3D Model Image Transparent" style="height: 300px;">
+<img src="3D-Models/Images/VerticalServoHolder3DModelImage_Transparent.png" alt="Vertical Servo Holder 3D Model Image Transparent" style="height: 300px;"><br><br>
 
 ## Demo Videos and Images
 
