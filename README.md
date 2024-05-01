@@ -29,16 +29,16 @@ Final Project - Georgia Tech - ECE 4180 - Spring 2024
 - Jumper Wires<br>
 
 **Hardware Wiring Diagram:**<br><br>
-<img src="Demo-Resources/Images/HardwareWiringDiagram.png" style="height: 500px;">
+<img src="Demo-Resources/Images/HardwareWiringDiagram.png" alt="Hardware Wiring Diagram" style="height: 500px;">
 
 **3D Printed Part Models:**<br><br>
-![Device Assembly](3D-Models/Images/DeviceAssembly.png)
-![Breadboard Holder 3D Model Image](3D-Models/Images/BreadboardHolder3DModelImage.png)
-![Breadboard Holder 3D Model Image Transparent](3D-Models/Images/BreadboardHolder3DModelImage_Transparent.png)
-![Horizontal Servo Holder 3D Model Image](3D-Models/Images/HorizontalServoHolder3DModelImage.png)
-![Horizontal Servo Holder 3D Model Image Transparent](3D-Models/Images/HorizontalServoHolder3DModelImage_Transparent.png)
-![Vertical Servo Holder 3D Model Image](3D-Models/Images/VerticalServoHolder3DModelImage.png)
-![Vertical Servo Holder 3D Model Image Transparent](3D-Models/Images/VerticalServoHolder3DModelImage_Transparent.png)
+<img src="3D-Models/Images/DeviceAssembly.png" alt="Device Assembly" style="height: 300px;">
+<img src="3D-Models/Images/BreadboardHolder3DModelImage.png" alt="Breadboard Holder 3D Model Image" style="height: 300px;">
+<img src="3D-Models/Images/BreadboardHolder3DModelImage_Transparent.png" alt="Breadboard Holder 3D Model Image Transparent" style="height: 300px;">
+<img src="3D-Models/Images/HorizontalServoHolder3DModelImage.png" alt="Horizontal Servo Holder 3D Model Image" style="height: 300px;">
+<img src="3D-Models/Images/HorizontalServoHolder3DModelImage_Transparent.png" alt="Horizontal Servo Holder 3D Model Image Transparent" style="height: 300px;">
+<img src="3D-Models/Images/VerticalServoHolder3DModelImage.png" alt="Vertical Servo Holder 3D Model Image" style="height: 300px;">
+<img src="3D-Models/Images/VerticalServoHolder3DModelImage_Transparent.png" alt="Vertical Servo Holder 3D Model Image Transparent" style="height: 300px;">
 
 
 
