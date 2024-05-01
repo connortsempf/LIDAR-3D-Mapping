@@ -4,7 +4,7 @@ Create 3D point models with the mBed microcontroller, basic hardware peripherals
 <br><br><br>
 
 ## Author
-- Connor Sempf - [connortsempf](https://github.com/connortsempf)
+Connor Sempf - [connortsempf](https://github.com/connortsempf)
 <br><br><br>
 
 ## Description
