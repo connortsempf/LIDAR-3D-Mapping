@@ -29,7 +29,7 @@ Final Project - Georgia Tech - ECE 4180 - Spring 2024
 - Jumper Wires<br>
 
 **Hardware Wiring Diagram:**<br><br>
-<img src="Demo-Resources/Images/HardwareWiringDiagram.png" style="max-height: 50px;">
+<img src="Demo-Resources/Images/HardwareWiringDiagram.png" style="height: 50px;">
 
 **3D Printed Part Models:**<br><br>
 ![Device Assembly](3D-Models/Images/DeviceAssembly.png)
