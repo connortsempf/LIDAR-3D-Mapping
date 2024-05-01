@@ -67,7 +67,7 @@ This project combines a bluetooth breakout board and two-servo, two-axis control
 
 ## 3D Rendering Source Code
 Files for the desktop application are found in the "LIDAR-Mapping-3D-Rendering-Source-Code" directory above.<br>
-Make sure to run the main file before starting the scanning sequence so the LIDAR data is actually mapped.
+Make sure to run the main.py file and adjust the COM port if needed before starting the scanning sequence so the LIDAR data is actually mapped.
 <br><br><br>
 
 ## Hardware Source Code
