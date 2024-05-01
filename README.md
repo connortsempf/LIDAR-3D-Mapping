@@ -34,14 +34,11 @@ Final Project - Georgia Tech - ECE 4180 - Spring 2024
 **3D Printed Part Models:**<br><br>
 <img src="3D-Models/Images/DeviceAssembly.png" alt="Device Assembly" style="height: 300px;"><br>
 <img src="3D-Models/Images/BreadboardHolder3DModelImage.png" alt="Breadboard Holder 3D Model Image" style="height: 300px;">
-<img src="3D-Models/Images/BreadboardHolder3DModelImage_Transparent.png" alt="Breadboard Holder 3D Model Image Transparent" style="height: 300px;">
+<img src="3D-Models/Images/BreadboardHolder3DModelImage_Transparent.png" alt="Breadboard Holder 3D Model Image Transparent" style="height: 300px;"><br>
 <img src="3D-Models/Images/HorizontalServoHolder3DModelImage.png" alt="Horizontal Servo Holder 3D Model Image" style="height: 300px;">
-<img src="3D-Models/Images/HorizontalServoHolder3DModelImage_Transparent.png" alt="Horizontal Servo Holder 3D Model Image Transparent" style="height: 300px;">
+<img src="3D-Models/Images/HorizontalServoHolder3DModelImage_Transparent.png" alt="Horizontal Servo Holder 3D Model Image Transparent" style="height: 300px;"><br>
 <img src="3D-Models/Images/VerticalServoHolder3DModelImage.png" alt="Vertical Servo Holder 3D Model Image" style="height: 300px;">
 <img src="3D-Models/Images/VerticalServoHolder3DModelImage_Transparent.png" alt="Vertical Servo Holder 3D Model Image Transparent" style="height: 300px;">
-
-
-
 
 ## Demo Videos and Images
 
