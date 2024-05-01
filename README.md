@@ -28,10 +28,20 @@ Final Project - Georgia Tech - ECE 4180 - Spring 2024
 - 5V Supply
 - Jumper Wires<br>
 
-**Hardware Wiring Diagram:**<br>
-![Wiring Diagram Image](temp/HardwareWiringDiagram.png)<br>
+**Hardware Wiring Diagram:**<br><br>
+![Wiring Diagram Image](Demo-Resources/HardwareWiringDiagram.png)<br>
 
-**3D Printed Part Models:**<br>
+**3D Printed Part Models:**<br><br>
+![Device Assembly](3D-Models/Images/DeviceAssembly.png)<br>
+![Breadboard Holder 3D Model Image](3D-Models/Images/BreadboardHolder3DModelImage.png)<br>
+![Breadboard Holder 3D Model Image Transparent](3D-Models/Images/BreadboardHolder3DModelImage_Transparent.png)<br>
+![Horizontal Servo Holder 3D Model Image](3D-Models/Images/HorizontalServoHolder3DModelImage.png)<br>
+![Horizontal Servo Holder 3D Model Image Transparent](3D-Models/Images/HorizontalServoHolder3DModelImage_Transparent.png)<br>
+![Vertical Servo Holder 3D Model Image](3D-Models/Images/VerticalServoHolder3DModelImage.png)<br>
+![Vertical Servo Holder 3D Model Image Transparent](3D-Models/Images/VerticalServoHolder3DModelImage_Transparent.png)<br>
+
+
+
 
 ## Demo Videos and Images
 
