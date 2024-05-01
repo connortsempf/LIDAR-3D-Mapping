@@ -1,5 +1,5 @@
 # LIDAR 3D Mapping
-Final Project - Georgia Tech - ECE 4180 - Spring 2024<br>
+Final Project - Georgia Tech - Embedded Systems Design - ECE 4180 - Spring 2024<br>
 Create 3D point models with the mBed microcontroller, basic hardware peripherals, and a 3D rendering desktop application
 <br><br><br>
 
