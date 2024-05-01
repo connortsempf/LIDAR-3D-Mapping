@@ -65,6 +65,11 @@ This project combines a bluetooth breakout board and two-servo, two-axis control
 - [Coordinate Rendering Visualization](https://youtu.be/nc9mq8p97Q0)<br><br>
 <br><br><br>
 
+## 3D Rendering Source Code
+Files for the desktop application are found in the "LIDAR-Mapping-3D-Rendering-Source-Code" directory above.<br>
+Make sure to run the main file before starting the scanning sequence so the LIDAR data is actually mapped.
+<br><br><br>
+
 ## Hardware Source Code
 ```c
 #include "mbed.h"
