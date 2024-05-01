@@ -1,4 +1,4 @@
-# LIDAR-3D-Mapping
+# LIDAR 3D Mapping
 Final Project - Georgia Tech - ECE 4180 - Spring 2024<br>
 Create 3D point models with the mBed microcontroller, basic hardware peripherals, and a 3D rendering desktop application
 <br><br><br>
@@ -65,7 +65,7 @@ This project combines a bluetooth breakout board and two-servo, two-axis control
 - [Coordinate Rendering Visualization](https://youtu.be/nc9mq8p97Q0)<br><br>
 <br><br><br>
 
-## Source Code
+## Hardware Source Code
 ```c
 #include "mbed.h"
 #include "XNucleo53L0A1.h"
