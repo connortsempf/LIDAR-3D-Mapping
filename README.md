@@ -26,8 +26,10 @@ Final Project - Georgia Tech - ECE 4180 - Spring 2024
 - PC or Laptop
 - 5V Supply
 - Jumper Wires<br>
+
 **Hardware Wiring Diagram**
-![Wiring Diagram Image](Photos and Videos/HardwareWiringDiagram.png)
+![Wiring Diagram Image](Photos\ and\ Videos/HardwareWiringDiagram.png)<br>
+
 **3D Printed Part Models**
 
 ## Demo Videos and Images
