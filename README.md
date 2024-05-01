@@ -53,7 +53,11 @@ This project combines a bluetooth breakout board and two-servo, two-axis control
 <img src="Demo-Resources/Images/Breadboard-TopView.png" alt="Breadboard Top View" style="height: 400px;"><br>
 <img src="Demo-Resources/Images/Setup-TopView.png" alt="Top View" style="height: 400px;"><br><br>
 **Device Demos**:<br><br>
-<iframe width="560" height="315" src="(https://youtu.be/nc9mq8p97Q0)" frameborder="0" allowfullscreen></iframe>
+- [Coordinate Rendering Visualization](https://youtu.be/nc9mq8p97Q0)
+- [Real Time Coordinate Mapping](https://youtu.be/MMdZRRT5r-Q)
+- [LIDAR Scanning Rear View](https://youtu.be/IgyYRwqueXU)
+- [LIDAR Scanning Timelapse](https://youtu.be/QPMSIuET8sY)
+- [Servo Reset and Relative Zero Positioning](https://youtu.be/zzRhkBZBalc)
 
 
 
