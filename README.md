@@ -53,9 +53,8 @@ This project combines a bluetooth breakout board and two-servo, two-axis control
 <img src="Demo-Resources/Images/Breadboard-TopView.png" alt="Breadboard Top View" style="height: 400px;"><br>
 <img src="Demo-Resources/Images/Setup-TopView.png" alt="Top View" style="height: 400px;"><br><br>
 **Device Demos**:<br><br>
-<video height="400">
-  <source src="Demo-Resources/Videos/DeviceReset.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="(https://youtu.be/nc9mq8p97Q0)" frameborder="0" allowfullscreen></iframe>
+
 
 
 
