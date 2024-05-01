@@ -12,13 +12,13 @@ Final Project - Georgia Tech - ECE 4180 - Spring 2024
 
 
 ## Devices and Components
-**Hardware Components**
+**Hardware Components:**
 - mBed LPC1768 Microcontroller - [Reference Site](https://os.mbed.com/platforms/mbed-LPC1768/)
 - Adafruit Bluefruit LE Uart Bluetooth Board - [Reference Site](https://os.mbed.com/users/4180_1/notebook/adafruit-bluefruit-le-uart-friend---bluetooth-low-/)
 - Adafruit VL53L0X LIDAR ToF Distance Sensor Board - [Reference Site](https://os.mbed.com/users/4180_1/code/HelloWorld_VL53L0X_LPC1768/)
 - HiTEC HS-422 Deluxe Servo Motor (2) - [Reference Site](https://os.mbed.com/users/4180_1/notebook/an-introduction-to-servos/)<br>
 
-**Miscellaneous Components**
+**Miscellaneous Components:**
 - 3D Printed Parts
 - 30 Row Solderless Breadboard
 - 63 Row Solderless Breadboard
@@ -28,10 +28,10 @@ Final Project - Georgia Tech - ECE 4180 - Spring 2024
 - 5V Supply
 - Jumper Wires<br>
 
-**Hardware Wiring Diagram**
+**Hardware Wiring Diagram:**<br>
 ![Wiring Diagram Image]("Photos\ and\ Videos/HardwareWiringDiagram.png")<br>
 
-**3D Printed Part Models**
+**3D Printed Part Models:**<br>
 
 ## Demo Videos and Images
 
