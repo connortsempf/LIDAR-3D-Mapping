@@ -32,7 +32,7 @@ Final Project - Georgia Tech - ECE 4180 - Spring 2024
 <img src="Demo-Resources/Images/HardwareWiringDiagram.png" alt="Hardware Wiring Diagram" style="height: 500px;">
 
 **3D Printed Part Models:**<br><br>
-<img src="3D-Models/Images/DeviceAssembly.png" alt="Device Assembly" style="height: 300px;">
+<img src="3D-Models/Images/DeviceAssembly.png" alt="Device Assembly" style="height: 300px;"><br>
 <img src="3D-Models/Images/BreadboardHolder3DModelImage.png" alt="Breadboard Holder 3D Model Image" style="height: 300px;">
 <img src="3D-Models/Images/BreadboardHolder3DModelImage_Transparent.png" alt="Breadboard Holder 3D Model Image Transparent" style="height: 300px;">
 <img src="3D-Models/Images/HorizontalServoHolder3DModelImage.png" alt="Horizontal Servo Holder 3D Model Image" style="height: 300px;">
