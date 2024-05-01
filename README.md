@@ -48,9 +48,9 @@ This project combines a bluetooth breakout board and two-servo, two-axis control
 ## Images and Demos
 <img src="Demo-Resources/Images/LIDAR-FrontView.png" alt="Front View" style="height: 400px;">
 <img src="Demo-Resources/Images/Setup-RearView.png" alt="Rear View" style="height: 400px;">
-<img src="Demo-Resources/Images/Servos-RearView.png" alt="Angled Rear View" style="height: 400px;"><br>
-<img src="Demo-Resources/Images/Setup-TopView.png" alt="Top View" style="height: 400px;"><br>
-<img src="Demo-Resources/Images/Breadboard-TopView.png" alt="Breadboard Top View" style="height: 400px;"><br>
+<img src="Demo-Resources/Images/Servos-RearView.png" alt="Angled Rear View" style="height: 400px;">
+<img src="Demo-Resources/Images/Setup-TopView.png" alt="Top View" style="height: 400px;">
+<img src="Demo-Resources/Images/Breadboard-TopView.png" alt="Breadboard Top View" style="height: 400px;"><br><br>
 
 
 ## Source Code
